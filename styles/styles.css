@@ -45,13 +45,13 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .info{
-    background-color: #1c1c1d;
+    background-color: #0097A7;
     color: white;
     padding: 20px;
 }
 
 .info-2{
-    background-color: #2196F3;
+    background-color: #00BCD4;
     color: white;
     padding: 40px;
 }
@@ -63,7 +63,7 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .info-3 .block {
-    background-color: #2196F3;
+    background-color: #00BCD4;
     margin-bottom: 1em;
     padding: 1em;
     border-radius: 4px;
@@ -73,7 +73,7 @@ h1,h2,h3,h4,h5,h6{
     list-style: decimal inside;
     font-size: 3em;
     padding: 0.4em;
-    background-color: #2196F3;
+    background-color: #009688;
     margin: 20px 0;
 }
 
@@ -114,8 +114,8 @@ h1,h2,h3,h4,h5,h6{
 }
 
 .infoContent .block h3 a {
-    color: #ffffff;
-    text-shadow: 2px 2px 3pX #4CAF50 ;
+    color: #B2EBF2;
+    text-shadow: 2px 2px 3pX #009688 ;
 }
 
 .infoContent .block{
@@ -131,7 +131,7 @@ h1,h2,h3,h4,h5,h6{
     font-family: 'Signika Negative', sans-serif;
     padding: 10px 20px;
     border-radius: 5px;
-    border: 2px solid #757575;
+    border: 2px solid #0097A7;
     background-color: transparent;
     color: white;
     font-weight: 600;
@@ -148,7 +148,7 @@ h1,h2,h3,h4,h5,h6{
 .btn:hover{
     transform: scale(1.5);
     letter-spacing: 3px;
-    background-color: #8BC34A;
+    background-color: #009688;
     color: white;
 }
 .fa:hover{
